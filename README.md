@@ -2,8 +2,6 @@
 
 **Connecting Busy Families with Trusted Household Help**
 
----
-
 ## What Is This Project?
 
 HomeCare Connect is a mobile app that helps busy people find reliable household workers for cleaning, cooking, laundry, and errands. Think of it like Uber, but for household chores.
@@ -217,9 +215,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Email**: [Add your email]
-- **GitHub**: [Add your GitHub profile]
-- **LinkedIn**: [Add your LinkedIn]
+Feel free to reach out:
+
+- **Email**: [leonieeffodu@gmail.com](mailto:leonieeffodu@gmail.com)
+- **LinkedIn**: [Leonie Effodu](https://www.linkedin.com/in/leonieeffodu)
+- **GitHub**: [Adesua19](https://github.com/Adesua19)
 
 ---
 
